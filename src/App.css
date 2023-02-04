@@ -1,0 +1,21 @@
+.App {
+}
+
+div.container {
+  margin: 1em;
+  padding: 1em;
+  background-color: rgb(24, 21, 21);
+  border-radius: 5px;
+
+  color: #ffffff;
+}
+
+div.bookCard {
+  margin-bottom: 10px;
+  padding: 5px;
+  border-left: 5px solid green;
+}
+
+span {
+  display: block;
+}
